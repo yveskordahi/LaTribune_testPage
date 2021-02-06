@@ -30,6 +30,8 @@
 .site-header__wrapper {
   padding-top: 1rem;
   padding-bottom: 1rem;
+  position: inherit;
+  z-index: 1000;
 }
 
 .nav__item__link {
