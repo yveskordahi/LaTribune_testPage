@@ -97,3 +97,9 @@
     color: rgb(192, 192, 192);
     margin: 0;
 }
+
+@media (max-width: 730px) {
+    .container {
+        width: 98%;
+    }
+}

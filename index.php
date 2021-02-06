@@ -11,7 +11,7 @@
     <link rel="stylesheet" href="styles/main-article.css" />
   </head>
   <body>
-    <div class="header__before"></div>
+    <div class="header__before">Section réseaux sociaux | <span class="span__abonnement"> abonnements</span> </div>
     <header class="site-header">
       <div class="wrapper site-header__wrapper">
         <a href="#" class="logo"><img class="logo__image" src="assets/logo-latribune.png" alt="Logo de la tribune"></a>
@@ -34,7 +34,7 @@
       </div>
     </header>
     
-    <div class="container__cac_40"></div>
+    <div class="container__cac_40">Section CAC 40</div>
 
     <main class="main">
     <div class="container">
@@ -65,10 +65,48 @@
             <hr class="separator__article">
 
             <div class="section__article">
-            <div class="section__article__text">
-            
-            </div>
-            <div class="sidebar"></div>
+              <div class="section__article__text">
+                <h2 class="section__article__text__title">Un autre titre</h2>
+                <img class="section__article__text__img" src="assets/paris.png" alt="">
+                <p class="section__article__text__img__source">Source de l'image.</p>
+                <hr class="section__article__text__separator">
+                <p class="section__article__text__subtitle">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Nam accusamus quos explicabo quaerat tempora sit numquam architecto non amet molestias, nisi, quia aliquid voluptatibus, unde consequatur rem. Rem, cupiditate velit.</p>
+                <p class="section__article__text__content">
+                  Lorem ipsum, dolor sit amet consectetur adipisicing elit. Accusantium unde ipsum ut debitis provident fugit nihil dicta exercitationem. 
+                  Provident nam vitae dolorum temporibus corrupti enim debitis nostrum placeat quisquam culpa?Lorem ipsum dolor sit amet, 
+                  consectetur adipisicing elit. Explicabo molestias aut expedita, aspernatur deleniti dolores officiis consequatur nisi, repudiandae et, 
+                  dolorum ad eos odit veritatis qui ab impedit eveniet magnam. Lorem ipsum dolor sit amet consectetur, adipisicing elit. 
+                  Nemo necessitatibus ex porro ducimus ut a animi quidem repellat sed exercitationem in eaque laudantium architecto recusandae, ratione veniam eligendi magni quasi.
+                  Lorem ipsum, dolor sit amet consectetur adipisicing elit. Accusantium unde ipsum ut debitis provident fugit nihil dicta exercitationem. 
+                  <br><br>
+                  Provident nam vitae dolorum temporibus corrupti enim debitis nostrum placeat quisquam culpa?Lorem ipsum dolor sit amet, 
+                  consectetur adipisicing elit. Explicabo molestias aut expedita, aspernatur deleniti dolores officiis consequatur nisi, repudiandae et, 
+                  dolorum ad eos odit veritatis qui ab impedit eveniet magnam. Lorem ipsum dolor sit amet consectetur, adipisicing elit. 
+                  Nemo necessitatibus ex porro ducimus ut a animi quidem repellat sed exercitationem in eaque laudantium architecto recusandae, ratione veniam eligendi magni quasi.</p>
+              </div>
+
+              <div class="sidebar">
+                <div class="sidebar__contents">
+                  <div class="sidebar__contents__top"> 
+                    <p class="sidebar__contents__title">DOSSIER</p>
+                  </div>
+                  <div class="sidebar__contents__mid"></div>
+                </div>
+
+                <div class="sidebar__contents">
+                  <div class="sidebar__contents__top"> 
+                    <p class="sidebar__contents__title">SUIVRE LA TRIBUNE</p>
+                  </div>
+                  <div class="sidebar__contents__follow"></div>
+                </div>
+
+                <div class="sidebar__contents">
+                  <div class="sidebar__contents__last__top"> 
+                    <p class="sidebar__contents__title">A LIRE AUSSI</p>
+                  </div>
+                  <div class="sidebar__contents__mid"></div>
+                </div>
+              </div>
             </div>
 
             
